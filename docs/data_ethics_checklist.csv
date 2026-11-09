@@ -1,0 +1,11 @@
+item,status,bukti
+Sumber data diizinkan (OSM Overpass; bukan OTA/Google Maps),TODO,"TODO: tulis bukti, mis. URL endpoint di provenance.json"
+Tidak ada scraping situs OTA atau halaman Google Maps,TODO,TODO
+Lisensi ODbL dibaca dan atribusi dicantumkan,TODO,"TODO: lokasi atribusi di README dan laporan"
+Batas pemakaian dipatuhi (query dijalankan 1-2 kali; tidak dalam loop),TODO,"TODO: jumlah eksekusi, bukti dari log"
+User-Agent berisi identitas pengambil,TODO,"TODO: lihat sel pengambilan di notebook"
+Data kontak (telepon/email/media sosial) tidak diambil,TODO,"TODO: kolom dataset di data_dictionary.csv"
+Minimisasi data (hanya kolom yang diperlukan),TODO,TODO
+Data mentah disimpan utuh dan tidak diubah,TODO,"TODO: hash MD5 di provenance.json"
+Keputusan pembersihan dicatat (tidak ada penghapusan diam-diam),TODO,"TODO: bagian 4 laporan"
+Kendala server (429/504) dilaporkan jika ada,TODO,TODO
