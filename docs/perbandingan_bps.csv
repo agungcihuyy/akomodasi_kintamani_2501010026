@@ -1,4 +1,4 @@
 sumber,tahun,cakupan,jumlah_akomodasi,catatan
-OSM (Overpass),TODO,Kecamatan Kintamani,TODO,diisi dari notebook
-BPS,TODO,Kecamatan Kintamani,TODO,"TODO: judul publikasi, tabel, halaman/URL. Jika tidak ditemukan, jelaskan di laporan"
-persentase_kelengkapan,,,TODO,jumlah OSM / jumlah BPS x 100
+OSM (Overpass),2026,Kecamatan Kintamani,16,diisi dari notebook
+BPS,2026,Kecamatan Kintamani,16,"TODO: judul publikasi, tabel, halaman/URL. Jika tidak ditemukan, jelaskan di laporan"
+persentase_kelengkapan,2026,,16,jumlah OSM / jumlah BPS x 100
