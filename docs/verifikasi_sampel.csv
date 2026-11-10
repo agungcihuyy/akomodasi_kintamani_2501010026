@@ -1,0 +1,11 @@
+no,osm_type,osm_id,nama_osm,jenis_osm,nama_benar,jenis_benar,lokasi_benar,catatan,url_osm
+1,node,10983432080,Batur View Homestay,guest_house,Benar,Benar,Benar,-,https://www.openstreetmap.org/node/10983432080
+2,node,7205318685,Tegal Suci Guest House,guest_house,Benar,Benar,Benar,-,https://www.openstreetmap.org/node/7205318685
+3,node,5181842726,Batur Volcano Guesthouse,guest_house,Benar,Benar,Benar,-,https://www.openstreetmap.org/node/5181842726
+4,node,7238422213,Batur Panorama,hotel,Benar,Benar,Benar,-,https://www.openstreetmap.org/node/7238422213
+5,node,4863479822,Miranda Homestay & Restaurant,guest_house,Benar,Benar,Benar,-,https://www.openstreetmap.org/node/4863479822
+6,node,4905949623,Lava Stone Hostel,hostel,Benar,Benar,Benar,-,https://www.openstreetmap.org/node/4905949623
+7,node,13284479326,Lava Bali and Hot Spring,hotel,Benar,Benar,Benar,-,https://www.openstreetmap.org/node/13284479326
+8,node,7058054537,Segara Hotel,hotel,Benar,Benar,Benar,-,https://www.openstreetmap.org/node/7058054537
+9,node,7216701986,Volcano hostel - real location,hostel,Benar,Benar,Benar,-,https://www.openstreetmap.org/node/7216701986
+10,node,5065920543,The Volcania Guesthouse,hotel,Benar,Tidak dapat dipastikan,Benar,"Tag OSM: hotel. Penyebutan jenis berbeda antar sumber (ada yang menyebut guest house, ada yang hotel).",https://www.openstreetmap.org/node/5065920543
